@@ -87,7 +87,7 @@
 
 <a id="en"></a>
 
-<details>
+<details open>
 <summary><b>🇺🇸 English (click to expand)</b></summary>
 
 <h1 align="center">Hi, I'm Marcos Renato 👋</h1>
